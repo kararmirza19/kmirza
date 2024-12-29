@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Karar</h1>
+<h1 align="center">Hi 👋, I'm Karar Mirza</h1>
 <h3 align="center">A passionate a dedicated and result-driven data enthusiast with a passion for machine learning (ML) and artificial intelligence (AI).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kararmirza19&label=Profile%20views&color=0e75b6&style=flat" alt="kararmirza19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kararmirza19" alt="kararmirza19" /></a> </p>
+
+- 🌱 I’m currently learning **NLP & AI Models with prior knowledge of Data mining and analysis**
+
+- 📫 How to reach me **kararmirza@gmail.com**
+
+- ⚡ Fun fact **No hugging only debugging .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
